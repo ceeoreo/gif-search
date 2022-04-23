@@ -5,6 +5,7 @@ body {
 	background: linear-gradient(30deg, rgba(2,0,36,1) 0%, rgba(24,24,134,1) 20%, rgba(0,212,255,1) 100%);
 	color: white;
 	font-size: 20px;
+	min-height: 100vh;
   }
   
   #intro {
